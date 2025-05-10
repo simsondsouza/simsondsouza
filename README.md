@@ -20,9 +20,11 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simsondsouza&theme=onedark&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simsondsouza&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simsondsouza&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsondsouza&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
